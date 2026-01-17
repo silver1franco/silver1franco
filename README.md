@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Franco 👋
 
-<!--
-**silver1franco/silver1franco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Python Automation Developer
 
-Here are some ideas to get you started:
+I build custom scripts that automate boring, repetitive tasks so you can focus on what matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I do:
+- File organization & management
+- Data processing & Excel automation
+- PDF manipulation tools
+- Web scraping solutions
+- Custom workflow automation
+
+### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### 📫 How to reach me:
+- 💼 [Fiverr](https://fiverr.com/your-username)
+- 📧 nexusglobe@proton.me
+
+---
+*"Automation is not about replacing humans, it's about freeing them."*
