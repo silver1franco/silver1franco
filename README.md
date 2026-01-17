@@ -16,7 +16,7 @@ I build custom scripts that automate boring, repetitive tasks so you can focus o
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### 📫 How to reach me:
-- 💼 [Fiverr](https://fiverr.com/your-username)
+- 💼 [Fiverr](https://fiverr.com/vxltvxlt)
 - 📧 nexusglobe@proton.me
 
 ---
